@@ -1,5 +1,5 @@
 # My-company-Web-link
-https:// majazi.co.za
+https://majazi.co.za
 
 
 this is the link to my official company website
